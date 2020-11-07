@@ -1,0 +1,10 @@
+package com.abc.aplication;
+
+public class Aplication {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner();
+		
+	}
+
+}
